@@ -19,3 +19,8 @@ In this challenge, I used SQL queries executed as pandas dataframes to analyze s
 2- Wrote advanced database queries by using SQL.
 
 3- Built complete financial applications by using SQL and Python.
+
+## Contributors
+
+Aquiba Benarroch, CFA
+aquiba.me
